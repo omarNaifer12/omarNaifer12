@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\naifer\\Desktop\\projects-problems\\asp.net\\GameStore.Api\\GameStore.Api.csproj": {}
+    "c:\\Users\\naifer\\Desktop\\projects-problems\\omarNaifer12\\asp.net Core Apis\\GameStore.Api\\GameStore.Api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\naifer\\Desktop\\projects-problems\\asp.net\\GameStore.Api\\GameStore.Api.csproj": {
+    "c:\\Users\\naifer\\Desktop\\projects-problems\\omarNaifer12\\asp.net Core Apis\\GameStore.Api\\GameStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\naifer\\Desktop\\projects-problems\\asp.net\\GameStore.Api\\GameStore.Api.csproj",
+        "projectUniqueName": "c:\\Users\\naifer\\Desktop\\projects-problems\\omarNaifer12\\asp.net Core Apis\\GameStore.Api\\GameStore.Api.csproj",
         "projectName": "GameStore.Api",
-        "projectPath": "c:\\Users\\naifer\\Desktop\\projects-problems\\asp.net\\GameStore.Api\\GameStore.Api.csproj",
+        "projectPath": "c:\\Users\\naifer\\Desktop\\projects-problems\\omarNaifer12\\asp.net Core Apis\\GameStore.Api\\GameStore.Api.csproj",
         "packagesPath": "C:\\Users\\naifer\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\naifer\\Desktop\\projects-problems\\asp.net\\GameStore.Api\\obj\\",
+        "outputPath": "c:\\Users\\naifer\\Desktop\\projects-problems\\omarNaifer12\\asp.net Core Apis\\GameStore.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\naifer\\AppData\\Roaming\\NuGet\\NuGet.Config",
